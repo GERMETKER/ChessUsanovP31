@@ -1,9 +1,11 @@
-#include <SFML/Graphics.hpp>
-
-
+#include "Game.hpp"
 int main()
 {
-
-    
-    return 0;
+	Game start;
+	return 0;
 }
+
+
+
+
+ 
